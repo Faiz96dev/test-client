@@ -1,0 +1,20 @@
+p{
+    margin: 10px;
+}
+
+h2 {
+    margin: auto;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    cursor:pointer;
+}
+
+.split{
+    height: 30px;
+}
